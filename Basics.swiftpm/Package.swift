@@ -19,8 +19,8 @@ let package = Package(
             bundleIdentifier: "IOSLab.Basics",
             displayVersion: "1.0",
             bundleVersion: "1",
-            appIcon: .placeholder(icon: .plane),
-            accentColor: .presetColor(.purple),
+            appIcon: .placeholder(icon: .flower),
+            accentColor: .presetColor(.orange),
             supportedDeviceFamilies: [
                 .pad,
                 .phone
